@@ -60,4 +60,4 @@ updating with a cleanup function.</p>
 
 <br/>
 
-## [useEffect's section in beta doc](https://beta-reactjs-org-git-effects-fbopensource.vercel.app/learn/synchronizing-with-effects) (not done yet) being writing by [Dan Abramov](https://github.com/gaearon)
+## [useEffect's section in beta doc](https://beta-reactjs-org-git-effects-fbopensource.vercel.app/learn/synchronizing-with-effects) (not done yet) being written by [Dan Abramov](https://github.com/gaearon)
