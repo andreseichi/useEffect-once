@@ -33,7 +33,7 @@ updating with a cleanup function.</p>
 
 ## Examples
 
-### Inside `/pages` there's two use cases:
+### Inside `/src/pages` there's two use cases:
 
 1. `NormalUsage.tsx` is a component page that fetch an API with the most common
    use case with useEffect, which causes double effect.
