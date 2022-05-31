@@ -6,6 +6,9 @@ export function Home() {
       <li>
         <Link to={'/normal'}>normal</Link>
       </li>
+      <li>
+        <Link to={'/solution'}>solution (kinda of)</Link>
+      </li>
     </ul>
   );
 }
